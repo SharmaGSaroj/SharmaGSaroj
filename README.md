@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SharmaGSaroj&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SharmaGSaroj&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaGSaroj&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SharmaGSaroj&theme=github-compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SharmaGSaroj&theme=react&no-frame=true&no-bg=false&margin-w=4)
