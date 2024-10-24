@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Event Connect<br>🌱 I’m currently learning Python<br>
+🌱 I’m currently learning Python
 
 
 # 💻 Tech Stack:
